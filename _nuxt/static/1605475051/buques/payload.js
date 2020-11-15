@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/buques", {data:[{}],fetch:[],mutations:void 0});
