@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/buques-de-noiva", {data:[{}],fetch:[],mutations:void 0});
